@@ -29,7 +29,7 @@ This mini project i used following Tools:
 
 - Maven help build automation tools for Java projects. They manage project dependencies.
 
-- PostMan for building Restful API's.
+- PostMan for Testing Restful API's.
 
 
 
@@ -87,19 +87,19 @@ http://localhost:8080/product/view?pageNumber=0&pageSize=10&sortBy=productId
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![create-Categories](https://github.com/Abhishek6975/Product-Categories-API/assets/100897545/350736a6-3830-48fe-b0af-16f541a3b5b4)
+
+## Screenshots
+![categoriesById](https://github.com/Abhishek6975/Product-Categories-API/assets/100897545/6e9be7e5-6799-4f58-a6c4-b548ff6309b8)
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![product-views](https://github.com/Abhishek6975/Product-Categories-API/assets/100897545/03e01e56-7592-438a-8bd8-b96369dfbd30)
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Product-Pagination](https://github.com/Abhishek6975/Product-Categories-API/assets/100897545/96f5d84b-dea6-47b4-acda-c27efc72e6fd)
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ## 🚀 About Me
 hi my name is Abhishek Narkhede,
