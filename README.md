@@ -51,7 +51,7 @@ To Run following url on postMan for create categories:
 ## view All Categories By Pagination
 
 ```bash
- http://localhost:8080/categories/view
+http://localhost:8080/categories/view?pageNumber=0&pageSize=3
 ```
 
 ## Create product 
